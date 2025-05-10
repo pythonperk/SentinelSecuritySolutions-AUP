@@ -30,7 +30,7 @@ Acceptable Use Policy for Sentinel Security Solutions
 16. [Revision History](#revision-history)
 17. [Acknowledgment of Understanding](#acknowledgment-of-understanding)
 
-## Introduction
+## Purpose
 
 This Acceptable Use Policy (AUP) defines the constraints and practices that all employees, contractors, consultants, temporary workers, and other workers at Sentinel Security Solutions (hereafter referred to as "Users") must adhere to when using company IT resources. The purpose of this policy is to protect the company's employees, partners, clients, and other affiliates, as well as to safeguard Sentinel Security Solutions' technology infrastructure, intellectual property, and business operations.
 
