@@ -12,7 +12,7 @@ Acceptable Use Policy for Sentinel Security Solutions
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Purpose](#purpose)
 2. [Scope](#scope)
 3. [General Use and Ownership](#general-use-and-ownership)
 4. [Security and Proprietary Information](#security-and-proprietary-information)
